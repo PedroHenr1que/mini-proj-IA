@@ -11,6 +11,7 @@ Certifique-se de que você tem as seguintes dependências instaladas:
 - Matplotlib
 - Seaborn
 - NumPy
+- Pandas
 - Scikit-learn
 - SciKeras (para integração do Keras com o Scikit-learn)
 
@@ -19,4 +20,4 @@ Certifique-se de que você tem as seguintes dependências instaladas:
 Você pode instalar as dependências usando o `pip` com o seguinte comando:
 
 ```bash
-pip install tensorflow matplotlib seaborn numpy scikit-learn scikeras
+pip install tensorflow matplotlib seaborn numpy pandas scikit-learn scikeras
